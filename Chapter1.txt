@@ -1,1 +1,2 @@
 It's a sunny day.
+Will it rain today?
